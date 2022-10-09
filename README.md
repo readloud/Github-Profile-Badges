@@ -2,7 +2,7 @@
 
 A list of badges in a repo with Markdown code, that you can be include in the `README.md` file for github.
 
-## <deatails> 
+<deatails> 
  <summary>Table of content</summary>
  
 - [Contact](#contact-)
