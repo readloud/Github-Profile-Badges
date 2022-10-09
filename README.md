@@ -2,9 +2,8 @@
 
 A list of badges in a repo with Markdown code, that you can be include in the `README.md` file for github.
 
-<deatails> 
- <summary>Table of content</summary>
- 
+## Table of content
+- [Achievments](/achievments)
 - [Contact](#contact-)
 - [Social](#social-)
 - [Blog](#blog-)
@@ -13,8 +12,6 @@ A list of badges in a repo with Markdown code, that you can be include in the `R
 - [Funding](#funding-)
 - [Streaming](#streaming-)
 - [License](#license-)
- 
-</deatails>
 
 ## General
 
