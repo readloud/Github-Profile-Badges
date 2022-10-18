@@ -1,10 +1,7 @@
-# List of Badges, For Your Profile 
-
-A list of badges in a repo with Markdown code, that you can be include in the `README.md` file for github.
+# Markdown Badges
 
 ![Markdown-badge-kohasummons-stripped-image](https://user-images.githubusercontent.com/66284362/159115513-3ae48dd6-3d9c-416f-83d4-db48de23fac8.png)
 
-# Markdown Badges
 Add badges to your Profile and Projects.
 
 # Table of contents
@@ -122,7 +119,9 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
-# Badges
+# List of Badges for Your Github Profile 
+
+A list of badges in a repo with Markdown code, that you can be include in the `README.md` file for github.
 
 ## General
 
