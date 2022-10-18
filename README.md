@@ -59,7 +59,7 @@ Add badges to your Profile and Projects.
 
 
 # Usage
-To use a badge:
+
 - Via Github
     1. Press `Ctrl` + `f` on your keyboard, to bring out the search modal.
     1. Enter the name of the badge you need.
